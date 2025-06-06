@@ -24,10 +24,10 @@ Die [Webseite](https://gvevtrovka.github.io/) ist nun verfügbar und sieht wie f
 
 ## 13.6
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Mehr Inhalt für die Webseite finden.
+- [ ] Mehr wissen recherchieren.
+- [ ] Farbschema ändern, sodass es ansprechend aussieht.
+- [ ] Bilder einfügen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
