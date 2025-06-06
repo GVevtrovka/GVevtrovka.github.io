@@ -7,10 +7,11 @@
 > Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte.
 
 ## 6.6
+- [x] Website hochgeladen
+- [x] Erstes "Minidesign hochgeladen"
+- [ ] Website zugreiffbar? (noch am warten....)
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
+Hab HTML und CSS bei mir ins gleiche File geschreiben, um es logisch zu halten für meine Denkweise von Programmieren, was auch funktioniert hat.
 
 ## 13.6
 
