@@ -8,6 +8,7 @@
 
 ## 6.6
 - [x] Website hochgeladen
+- [x] Webseiten Design Vorschlag... 
 - [x] Erstes "Minidesign hochgeladen"
 - [x] Website zugreiffbar?
 
