@@ -9,7 +9,7 @@
 ## 6.6
 - [x] Website hochgeladen
 - [x] Erstes "Minidesign hochgeladen"
-- [ ] Website zugreiffbar? (noch am warten....)
+- [x] Website zugreiffbar?
 
 Hab HTML und CSS bei mir ins gleiche File geschreiben, um es logisch zu halten für meine Denkweise von Programmieren, was auch funktioniert hat.
 
