@@ -13,6 +13,9 @@
 - [x] Website zugreiffbar?
 
 Hab HTML und CSS bei mir ins gleiche File geschreiben, um es logisch zu halten für meine Denkweise von Programmieren, was auch funktioniert hat.
+Die [Webseite](https://gvevtrovka.github.io/) ist nun verfügbar und sieht wie foglt aus bisher:
+![image](https://github.com/user-attachments/assets/494ac557-e119-4723-87ac-94d26b5c6dc3)
+
 
 ## 13.6
 
