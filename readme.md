@@ -6,6 +6,7 @@
 - Ich möchte auch etwas meines Privatleben in diese Webseite einbinden.
 - Ich möchte es farbig, aber nicht zu farbig.
 - Ich muss während des Projektes noch etwas HTML und CSS lernen, da ich noch nicht ganz so weit bin.
+
 ![WhatsApp Bild 2025-06-06 um 11 38 14_39de943f](https://github.com/user-attachments/assets/016db6e7-98c2-466a-bffa-5187c62f8ee7)
 
 
