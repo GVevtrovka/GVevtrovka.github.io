@@ -33,18 +33,23 @@ Da ich heute zu spät zur Schule erschien, bekam ich etwas weniger hin, als eige
 ## 20.7
 
 - [ ] Inhalt ergänzen
-  - [ ] Verschiedene Lernateliers verlinken
-- [ ] Farbschema noch fertigsteleln
+  - [x] Verschiedene Lernateliers verlinken
+- [x] Farbschema noch fertigsteleln
 - [ ] Javascript mithilfe von ChatGPT hinzufügen für spezielle Funktionen.
-
+Habe heute einen neuen Weg eingeschlagen, indem ich meine ganze Website neu gestalten werde.
+![WhatsApp Bild 2025-06-20 um 10 50 16_7feb29b1](https://github.com/user-attachments/assets/7d6d6573-debd-422f-aed0-ed20ebce57f8)
+Bisher habe ich erfolgreich die Post-it auf die Website gebracht, muss jedoch nohc draufschreiben und dann noch mehr einfügen...
+Ebenfalls werde ich nächste Woche mit Java Script machen, dass diese Post-it sich bewegen wenn man mit dem Cursor drübergeht
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Post-it Wiggle mit Java Script.
+- [ ] Text auf Post-it.
+- [ ] Post it anklicken, um mehr Information über etwas auf dem Post-it zu bekommen
+- [ ] allgemein die Farben anpassen als Rahmen für die Website.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
